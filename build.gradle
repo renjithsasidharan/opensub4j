@@ -68,7 +68,7 @@ allprojects {
     }
 
     signing {
-        sign configurations.archives
+       // sign configurations.archives
     }
 
     idea {

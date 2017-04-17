@@ -16,10 +16,10 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.nio.charset.Charset;
-import java.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.zip.GZIPInputStream;
+import com.github.wtekiela.opensub4j.util.Base64;
 
 public class SubtitleFile {
 
